@@ -4,7 +4,7 @@ package compucel;
 public class RegistroVentas {
     public static void main(String[] args) {
         
-        Compucel VentaCamara = new Compucel();
+        ProductoCam VentCamara = new ProductoCam();
      String cabecera="\n\tESCOGER UN MODELO DE TELEVISOR\n";
      
          //cabecera = cabecera + "XXXX";
